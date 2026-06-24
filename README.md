@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/elle-tu-laimes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Elle Tu L'aimes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/elle-tu-laimes/) |
+| **Get License** | [Get License For Elle Tu L'aimes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/elle-tu-laimes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `120b81664ead391b603c728e3dcad5ac5141f3e43781452d56dfe40348d8132b` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
