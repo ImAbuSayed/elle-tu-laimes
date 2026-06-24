@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/elle-tu-laimes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Elle Tu L'aimes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/elle-tu-laimes/) |
+| **Get License** | [Get a Licensing Quote for Elle Tu L'aimes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/elle-tu-laimes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tes lèvres rouges me font perdre la raison
+> I'm caught in your vibe, tu es ma prison
+> On danse sous la lune, on frôle le danger
+> Ce soir, mon amour, tout va enfin changer
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
